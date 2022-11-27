@@ -1,0 +1,11 @@
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Debug\WordsChenger.exe.config
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Debug\WordsChenger.exe
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Debug\WordsChenger.pdb
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.Properties.Resources.resources
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.exe
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.pdb
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.Form1.resources
