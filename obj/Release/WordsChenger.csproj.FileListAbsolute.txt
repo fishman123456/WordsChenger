@@ -1,0 +1,13 @@
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Release\6_Испытания электродвигателя переменного тока напряжением до 1 кВ_104.1.4.doc
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Release\WordsChenger.exe.config
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Release\WordsChenger.exe
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Release\WordsChenger.pdb
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.ResolveComReference.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.Form1.resources
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.Properties.Resources.resources
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.exe
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.pdb

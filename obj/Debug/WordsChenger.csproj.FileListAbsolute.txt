@@ -9,3 +9,5 @@ C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.C
 C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.exe
 C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.pdb
 C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.Form1.resources
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.ResolveComReference.cache
+C:\Users\Fishman_1\Documents\GitHub\WordsChenger\bin\Debug\Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc
