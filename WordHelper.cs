@@ -60,7 +60,8 @@ namespace WordsChenger
                 //Object newFilename = Path.Combine(_fileInfo.DirectoryName,
                 // DateTime.Now.ToString("yyyyMMdd HHmmss") + _fileInfo.Name);
                 Object newFilename = Path.Combine(_fileInfo.DirectoryName,"№"+
-                    items["<first>"] + _fileInfo.Name)+ "поз."+ items["<second>"];
+                    items["<first>"] + "_Испытания электродвигателя переменного тока напряжением до 1 кВ_" + 
+                    "поз."+ items["<second>"]+".doc");
                 app.ActiveDocument.SaveAs2(newFilename);
                 app.ActiveDocument.Close();
                 app.Quit();

@@ -23,3 +23,4 @@ C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.cs
 C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.CoreCompileInputs.cache
 C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.exe
 C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\bin\Debug\Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc
