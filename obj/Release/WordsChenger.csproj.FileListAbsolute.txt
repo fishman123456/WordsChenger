@@ -11,3 +11,15 @@ C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj
 C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.CoreCompileInputs.cache
 C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.exe
 C:\Users\Fishman_1\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\bin\Release\WordsChenger.exe.config
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\bin\Release\WordsChenger.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\bin\Release\WordsChenger.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.ResolveComReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.Form1.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.Properties.Resources.resources
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.GenerateResource.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\WordsChenger\obj\Release\WordsChenger.pdb

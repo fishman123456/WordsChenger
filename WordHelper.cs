@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Office.Interop.Word;
+
+using System;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.IO;
@@ -55,9 +57,10 @@ namespace WordsChenger
                         Format: false,
                         ReplaceWith: missing, Replace: replace);
                 }
-                Object newFilename = Path.Combine(_fileInfo.DirectoryName,
-                    DateTime.Now.ToString("yyyyMMdd HHmmss") + _fileInfo.Name);
-                
+                //Object newFilename = Path.Combine(_fileInfo.DirectoryName,
+                // DateTime.Now.ToString("yyyyMMdd HHmmss") + _fileInfo.Name);
+                Object newFilename = Path.Combine(_fileInfo.DirectoryName,"№"+
+                    items["<first>"] + _fileInfo.Name)+ "поз."+ items["<second>"];
                 app.ActiveDocument.SaveAs2(newFilename);
                 app.ActiveDocument.Close();
                 app.Quit();
