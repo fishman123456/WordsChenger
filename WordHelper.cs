@@ -7,7 +7,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Windows.Forms;
 using Word = Microsoft.Office.Interop.Word;
 
 namespace WordsChenger
@@ -76,7 +76,9 @@ namespace WordsChenger
             {
                 if (app!=null)
                 {
+                    
                     app.Quit();
+                    MessageBox.Show("Файл создан!");
                 }
             }
             return false;
