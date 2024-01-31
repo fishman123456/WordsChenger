@@ -51,7 +51,7 @@ namespace WordsChenger
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            var helper = new WordHelper("Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc");
+            var helper = new WorldFile("Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc");
             var items = new Dictionary<string, string>
             {
                 {"<first>", textBox1.Text},
@@ -85,6 +85,13 @@ namespace WordsChenger
         private void label5_Click(object sender, EventArgs e)
         {
 
+        }
+        // кнопка добавлена 31-01-2024
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(@"Файл сохраняется в папку" + "\n" + @"*\WordsChenger\bin\Debug" + "\n" +
+                "Файл - " + "Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc" + "\n"+
+                "Должен лежать в единой папке с " + "WordsChenger.exe"); 
         }
     }
 }

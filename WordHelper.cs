@@ -12,11 +12,11 @@ using Word = Microsoft.Office.Interop.Word;
 
 namespace WordsChenger
 {
-    public class WordHelper
+    public class WorldFile
     {
         private FileInfo _fileInfo;
 
-      public  WordHelper(string fileName)
+      public  WorldFile(string fileName)
         {
             if (File.Exists(fileName))
             {
