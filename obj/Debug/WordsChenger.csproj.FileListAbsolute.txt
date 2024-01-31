@@ -49,3 +49,15 @@ C:\Users\Fishman\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.Gen
 C:\Users\Fishman\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.csproj.CoreCompileInputs.cache
 C:\Users\Fishman\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.exe
 C:\Users\Fishman\Documents\GitHub\WordsChenger\obj\Debug\WordsChenger.pdb
+D:\Github\WordsChenger\bin\Debug\Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc
+D:\Github\WordsChenger\bin\Debug\WordsChenger.exe.config
+D:\Github\WordsChenger\bin\Debug\WordsChenger.exe
+D:\Github\WordsChenger\bin\Debug\WordsChenger.pdb
+D:\Github\WordsChenger\obj\Debug\WordsChenger.csproj.AssemblyReference.cache
+D:\Github\WordsChenger\obj\Debug\WordsChenger.csproj.ResolveComReference.cache
+D:\Github\WordsChenger\obj\Debug\WordsChenger.Form1.resources
+D:\Github\WordsChenger\obj\Debug\WordsChenger.Properties.Resources.resources
+D:\Github\WordsChenger\obj\Debug\WordsChenger.csproj.GenerateResource.cache
+D:\Github\WordsChenger\obj\Debug\WordsChenger.csproj.CoreCompileInputs.cache
+D:\Github\WordsChenger\obj\Debug\WordsChenger.exe
+D:\Github\WordsChenger\obj\Debug\WordsChenger.pdb

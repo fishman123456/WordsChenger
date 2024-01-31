@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -58,13 +57,15 @@
             this.label14 = new System.Windows.Forms.Label();
             this.textBox14 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.label15 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.label16 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.label17 = new System.Windows.Forms.Label();
-            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
             this.textBox16 = new System.Windows.Forms.TextBox();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.label18 = new System.Windows.Forms.Label();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -145,17 +146,6 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(680, 678);
             this.tableLayoutPanel1.TabIndex = 0;
             this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint_1);
-            // 
-            // button3
-            // 
-            this.button3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button3.Location = new System.Drawing.Point(388, 638);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(200, 29);
-            this.button3.TabIndex = 36;
-            this.button3.Text = "Выход";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // label1
             // 
@@ -436,17 +426,6 @@
             this.textBox4.Size = new System.Drawing.Size(378, 31);
             this.textBox4.TabIndex = 4;
             // 
-            // label15
-            // 
-            this.label15.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label15.Location = new System.Drawing.Point(20, 563);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(255, 20);
-            this.label15.TabIndex = 32;
-            this.label15.Text = "п.13 ед. изм. заполнять вручную";
-            // 
             // button1
             // 
             this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -457,17 +436,6 @@
             this.button1.Text = "Создать новый файл";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // label16
-            // 
-            this.label16.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.label16.AutoSize = true;
-            this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label16.Location = new System.Drawing.Point(36, 526);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(257, 20);
-            this.label16.TabIndex = 33;
-            this.label16.Text = "п.14 поз. в родительном падеже";
             // 
             // button2
             // 
@@ -490,16 +458,38 @@
             this.label17.TabIndex = 35;
             this.label17.Text = "2022 год";
             // 
-            // textBox15
+            // button3
             // 
-            this.textBox15.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBox15.Enabled = false;
-            this.textBox15.Location = new System.Drawing.Point(299, 558);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(378, 31);
-            this.textBox15.TabIndex = 37;
+            this.button3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button3.Location = new System.Drawing.Point(388, 638);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(200, 29);
+            this.button3.TabIndex = 36;
+            this.button3.Text = "Выход";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // label16
+            // 
+            this.label16.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label16.Location = new System.Drawing.Point(19, 526);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(257, 20);
+            this.label16.TabIndex = 33;
+            this.label16.Text = "п.14 поз. в родительном падеже";
+            // 
+            // label15
+            // 
+            this.label15.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label15.Location = new System.Drawing.Point(20, 563);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(255, 20);
+            this.label15.TabIndex = 32;
+            this.label15.Text = "п.13 ед. изм. заполнять вручную";
             // 
             // textBox16
             // 
@@ -512,11 +502,35 @@
             this.textBox16.Size = new System.Drawing.Size(378, 31);
             this.textBox16.TabIndex = 38;
             // 
+            // textBox15
+            // 
+            this.textBox15.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.textBox15.Enabled = false;
+            this.textBox15.Location = new System.Drawing.Point(299, 558);
+            this.textBox15.Name = "textBox15";
+            this.textBox15.Size = new System.Drawing.Size(378, 31);
+            this.textBox15.TabIndex = 37;
+            // 
+            // label18
+            // 
+            this.label18.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label18.Location = new System.Drawing.Point(71, 8);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(551, 20);
+            this.label18.TabIndex = 1;
+            this.label18.Text = "Испытания электродвигателя переменного тока напряжением до 1 кВ";
+            this.label18.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(684, 721);
+            this.Controls.Add(this.label18);
             this.Controls.Add(this.tableLayoutPanel1);
             this.MinimumSize = new System.Drawing.Size(700, 760);
             this.Name = "Form1";
@@ -524,6 +538,7 @@
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -566,6 +581,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textBox16;
         private System.Windows.Forms.TextBox textBox15;
+        private System.Windows.Forms.Label label18;
     }
 }
 
