@@ -93,5 +93,10 @@ namespace WordsChenger
                 "Файл - " + "Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc" + "\n"+
                 "Должен лежать в единой папке с " + "WordsChenger.exe"); 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
