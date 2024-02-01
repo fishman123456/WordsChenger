@@ -67,7 +67,8 @@ namespace WordsChenger
                 {"<eleven>",textBox11.Text },
                 {"<twelve>",textBox12.Text },
                 {"<thirteen>",textBox13.Text },
-                {"<fourteen>",textBox14.Text }
+                {"<fourteen>",textBox14.Text },
+                {"<fifteen>",textBox16.Text }
             };
             helper.Process(items);
             MessageBox.Show($"Файл  {textBox2.Text.ToString()} создан");
@@ -98,6 +99,16 @@ namespace WordsChenger
         private void button3_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox16_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
