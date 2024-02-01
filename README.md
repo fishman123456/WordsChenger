@@ -1,5 +1,6 @@
 # Программа на WF для создания файла протоколов в формате .doc
 <br>
 ### Используем в качестве шаблона файл  Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc
-![image](https://github.com/fishman123456/WordsChenger/assets/106389581/ef5010b6-1b55-4890-88b5-de773e137364)
+<br>
+![image](https://github.com/fishman123456/WordsChenger/assets/106389581/df6234cd-4010-4bb8-9827-ca35416ea3e5)
 
