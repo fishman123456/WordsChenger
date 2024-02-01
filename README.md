@@ -2,5 +2,6 @@
 <br>
 ### Используем в качестве шаблона файл  Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc
 <br>
-![image](https://github.com/fishman123456/WordsChenger/assets/106389581/df6234cd-4010-4bb8-9827-ca35416ea3e5)
+![image](https://github.com/fishman123456/WordsChenger/assets/106389581/87470082-f813-4ed3-95cb-aa1e7e502051)
+
 
