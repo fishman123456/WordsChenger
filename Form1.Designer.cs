@@ -105,12 +105,12 @@
             this.tableLayoutPanel1.Controls.Add(this.textBox4, 1, 3);
             this.tableLayoutPanel1.Controls.Add(this.button1, 1, 22);
             this.tableLayoutPanel1.Controls.Add(this.button2, 0, 22);
-            this.tableLayoutPanel1.Controls.Add(this.label17, 0, 25);
             this.tableLayoutPanel1.Controls.Add(this.button3, 1, 25);
-            this.tableLayoutPanel1.Controls.Add(this.label16, 0, 20);
-            this.tableLayoutPanel1.Controls.Add(this.label15, 0, 21);
             this.tableLayoutPanel1.Controls.Add(this.textBox16, 1, 20);
             this.tableLayoutPanel1.Controls.Add(this.textBox15, 1, 21);
+            this.tableLayoutPanel1.Controls.Add(this.label15, 0, 20);
+            this.tableLayoutPanel1.Controls.Add(this.label16, 0, 21);
+            this.tableLayoutPanel1.Controls.Add(this.label17, 0, 25);
             this.tableLayoutPanel1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.tableLayoutPanel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.tableLayoutPanel1.Location = new System.Drawing.Point(4, 31);
@@ -474,7 +474,7 @@
             this.label16.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label16.Location = new System.Drawing.Point(19, 526);
+            this.label16.Location = new System.Drawing.Point(19, 563);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(257, 20);
             this.label16.TabIndex = 33;
@@ -485,7 +485,7 @@
             this.label15.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label15.Location = new System.Drawing.Point(20, 563);
+            this.label15.Location = new System.Drawing.Point(20, 526);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(255, 20);
             this.label15.TabIndex = 32;

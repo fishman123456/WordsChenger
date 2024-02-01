@@ -70,6 +70,7 @@ namespace WordsChenger
                 {"<fourteen>",textBox14.Text }
             };
             helper.Process(items);
+            MessageBox.Show($"Файл  {textBox2.Text.ToString()} создан");
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -89,7 +90,7 @@ namespace WordsChenger
         // кнопка добавлена 31-01-2024
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(@"Файл сохраняется в папку" + "\n" + @"*\WordsChenger\bin\Debug" + "\n" +
+            MessageBox.Show(@"Файл сохраняется в папку" + "\n" + @"*\WordsChenger.exe" + "\n" +
                 "Файл - " + "Испытания электродвигателя переменного тока напряжением до 1 кВ_.doc" + "\n"+
                 "Должен лежать в единой папке с " + "WordsChenger.exe"); 
         }
